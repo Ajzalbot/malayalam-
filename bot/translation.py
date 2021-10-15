@@ -5,8 +5,6 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
 <i>ഈ ബോട്ട് തികച്ചും @tiger_chats ഗ്രൂപ്പിലേക്ക് ആണ്. ഞാൻ ആണ് ആ ഗ്രൂപ്പിൽ സിനിമകൾ നൽകുന്നത്😊
 </i>"""    
     
@@ -16,7 +14,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/ajzalk">ajzal</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/ajzalk">@ajzal</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
