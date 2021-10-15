@@ -49,11 +49,7 @@ async def start(bot, update):
     buttons = [[
         InlineKeyboardButton('🔰GROUP🔰', url='https://t.me/tiger_chats'),
         InlineKeyboardButton('🔰CHANNEL🔰', url ='https://t.me/FILMCORNER369')
-    ],[
-        InlineKeyboardButton('Movie search bot', url='https://t.me/MalluSearchBot')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
-    ]]
+   ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
